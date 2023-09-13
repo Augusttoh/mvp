@@ -1,0 +1,25 @@
+
+.perfillogo{
+    align-items: end;
+    text-align: right;
+   
+}
+
+#tamanhoperfil{
+width: min-content;
+
+}
+
+.imagenperfil{
+    width: 1px;
+    height: 1px;
+    margin-right: 1px;
+
+
+}
+.divperfil{
+    text-align: right; 
+    color: gray;
+  
+}
+
